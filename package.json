@@ -1,0 +1,23 @@
+{
+  "name": "learn-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vish-git/learn-travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vish-git/learn-travis/issues"
+  },
+  "homepage": "https://github.com/vish-git/learn-travis#readme",
+  "devDependencies": {
+    "jshint": "^2.11.1"
+  }
+}
