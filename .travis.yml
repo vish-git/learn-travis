@@ -2,7 +2,5 @@ language: node_js
 node_js:
   - node
 deploy:
-  provider: heroku
-  app: tutorial-cicd
   api_key:
     secure: jug1EiF27p6pgDWg7+Z4FLvYEeKwDnF6Dqv3RFSUbE+3Uw30ik4HRCRCcIEn/Z75IUx+rcVGVxRnCgm2wjY1axB6r0xUjhrLa80r2sBmub1ouTVVORh+MlNt6WJ0IZZ7W1/K1bGkHcvimIafoY+Ps0vbOGIInWKhmn59Tt/8bIo6eMpks1Hf0OdLQr+l9zjggXQ7SxKFEauQI48Dg4/0Cf23a2sGmSG5kTdYG3FzxKa3ghMr9lNtgUn7Ohz5yUl2RvKG5z7ZilzKQboiP/mdOphGwvekIoS9Oh6+Ou4x4KpwMMuqRIIP+B21vf1R5WSkTm8cm4+2RXPE8xleKSWA+Y5YXJj3nGHiHCjgG9pd9nxHFhuEAKlJ6zxBFBj5jrT3m/gvprV+T4gp+s9xYyghsUFG8IMvg0CIdYwhn8MY/0WU1qljVgYbX/Mt2WN8IvWmS5NTb57awsuWqhAjcAqb24bWNNmUnP2KnOo8FqgWmbTadeG/BDK3KVE3kN8wchAKOzpk/9WzSAKJfbvOfe1Q3VdN/HfPXADRNS17CNPRZBGl7Dohcz/PUhZ8QhpUxDoVWr5frpXUZSjmeCjRC/KygGadBff8Y00opVQh+/UpvTf/Fo+EhYBypuer73gyYxZhckkG4iL4akfIz66crzCJyobqrzOwYHvy0e+tXBy2YRg=
